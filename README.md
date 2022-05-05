@@ -15,7 +15,7 @@
 ### Atualmente estou focado em por em prática o que eu estou aprendendo!
 - 🌱 Estou aprendendo Vue.js atualmente
 - 🤔 É bem vinda qualquer ajuda ou convite para trabalhar em algum projeto <br>
-##  Para entrar em contato pode ser pelas meios abaixo:
+##  Para entrar em contato pode ser pelos meios abaixo:
 <div>
   <a href = "mailto:felj.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-gomes-a21916211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
