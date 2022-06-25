@@ -13,7 +13,7 @@
                                                                                                                                                       
 
 ### Atualmente estou focado em por em prática o que eu estou aprendendo!
-- 🌱 Estou aprendendo React atualmente
+- 🌱 Estou aprendendo React atualmente 
 - 🤔 É bem vinda qualquer ajuda ou convite para trabalhar em algum projeto <br>
 ##  Para entrar em contato pode ser pelos meios abaixo: 
 <div>
